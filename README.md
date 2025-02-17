@@ -20,7 +20,7 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 Data Source: Cyclistic_Data
 
 Data Cleaning & Preparation
-Data Analysis & Visualizations
+\n Data Analysis & Visualizations
 main.py
 
 # Recommendations/Data Insights for the upcoming restaurants:-
