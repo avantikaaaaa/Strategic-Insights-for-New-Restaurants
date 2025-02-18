@@ -4,10 +4,10 @@
 
 Bengaluru is best place for foodies. The number of restaurant are increasing day by day. However it has become challenging  for new restaurants in maintaining competitiveness against established market players. Key issues include escalating real estate expenses, increasing food costs, a shortage of skilled workforce, a fragmented supply chain, and extensive licensing requirements.
 
-# Objective: 
+# Objective
 Assist new restaurants with data-driven strategies to enhance their competitiveness and ensure successful market entry by aligning their offerings with themes, menus, cuisines, and pricing tailored to specific locations.
 
-# Bussiness Task:
+# Bussiness Task
 
 1. Leverage Zomato's data to conduct a comprehensive demographic analysis of various locations in Bengaluru.
 2. Identify and analyze key demographic factors that influence restaurant success, such as population density, income levels, and cultural preferences.
@@ -22,7 +22,7 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 3. [Data Analysis & Visualizations](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/Visualize.py)
 4. [main.py](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/main.py)
 
-# Recommendations/Data Insights for the upcoming restaurants:-
+# Recommendations/Data Insights for the upcoming restaurants:
 
 ### Theme Focus
 Emphasize Quick Bites and Snacks: Given the consumer interest in fast and convenient dining, focus on creating a menu that highlights quick bites and snacks. This approach caters to the growing demand for speed and convenience over traditional meal settings.
