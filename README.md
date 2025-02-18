@@ -39,6 +39,6 @@ Emphasize Quick Bites and Snacks: Given the consumer interest in fast and conven
 ### Service Efficiency
 **Pre-Ordering and Pre-Booking Options:** Enhance customer convenience by offering pre-ordering and pre-booking options. This ensures quick and seamless service upon arrival, improving the overall customer experience and satisfaction.
 
-### Online Ordering and Table Booking Services:
+### Online Ordering and Table Booking Services
 Since **59.3%** of restaurants accept online orders, ensure your restaurant integrates this service to meet customer expectations.
 With only **12.8%** offering table booking, enhance this service to differentiate your restaurant and attract customers seeking a more organized dining experience.
