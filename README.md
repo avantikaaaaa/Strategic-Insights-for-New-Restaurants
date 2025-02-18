@@ -17,10 +17,10 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 
  ### Quick links:
 
-1. Data Source: Cyclistic_Data
-2. Data Cleaning & Preparation
+1. Data Source: [Zomato Dataset]()
+2. [Data Cleaning & Preparation](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/clean_process.py)
 3. [Data Analysis & Visualizations](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/Visualize.py)
-4. main.py
+4. [main.py](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/main.py)
 
 # Recommendations/Data Insights for the upcoming restaurants:-
 
