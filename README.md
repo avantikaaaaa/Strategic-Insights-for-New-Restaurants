@@ -19,7 +19,7 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 
 1. Data Source: Cyclistic_Data
 2. Data Cleaning & Preparation
-3. Data Analysis & Visualizations
+3. [Data Analysis & Visualizations](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/Visualize.py)
 4. main.py
 
 # Recommendations/Data Insights for the upcoming restaurants:-
