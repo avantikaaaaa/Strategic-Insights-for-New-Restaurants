@@ -17,7 +17,7 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 
  ### Quick links:
 
-1. Data Source: [Zomato Dataset]()
+1. Data Source: [Zomato Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
 2. [Data Cleaning & Preparation](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/clean_process.py)
 3. [Data Analysis & Visualizations](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/Visualize.py)
 4. [main.py](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/main.py)
