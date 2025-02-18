@@ -24,21 +24,21 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 
 # Recommendations/Data Insights for the upcoming restaurants:-
 
--Theme Focus
+### Theme Focus
 Emphasize Quick Bites and Snacks: Given the consumer interest in fast and convenient dining, focus on creating a menu that highlights quick bites and snacks. This approach caters to the growing demand for speed and convenience over traditional meal settings.
 
--Location Strategy
+### Location Strategy
 Strategic Location Selection: Choose locations that offer a vibrant and fresh atmosphere. This can enhance the offline dining experience and attract more customers. Consider areas with high foot traffic and visibility to maximize exposure and customer inflow.
 
--Cuisine Selection
+### Cuisine Selection
 North Indian and Chinese Fusion: Focus on North Indian or Chinese cuisines, or create a unique fusion of the two. This can draw customer interest and provide a distinctive dining experience that sets your restaurant apart from competitors.
 
--Affordable Pricing
+### Affordable Pricing
 Competitive Pricing Strategy: Implement a pricing strategy that balances high-quality food with competitive rates. This approach can attract cost-conscious customers and broaden your market appeal, making your restaurant accessible to a wider audience.
 
--Service Efficiency
+### Service Efficiency
 Pre-Ordering and Pre-Booking Options: Enhance customer convenience by offering pre-ordering and pre-booking options. This ensures quick and seamless service upon arrival, improving the overall customer experience and satisfaction.
 
--Online Ordering and Table Booking Services:
+### Online Ordering and Table Booking Services:
 Since 59.3% of restaurants accept online orders, ensure your restaurant integrates this service to meet customer expectations.
 With only 12.8% offering table booking, enhance this service to differentiate your restaurant and attract customers seeking a more organized dining experience.
