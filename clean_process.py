@@ -75,67 +75,6 @@ def clean_and_proccess_data(df):
 
     df['Cost2plates'] = df['Cost2plates'].apply(handlecomma)
     df['Cost2plates'].unique()
-
     df.head()
-
-    rest_types = df['rest_type'].value_counts(ascending=False)
-    rest_types
-
-    rest_types_lessthan1000 = rest_types[rest_types < 1000]
-    rest_types_lessthan1000
-
-    # Making Rest Types less than 1000 in frequency as others
-
-    '''def handle_rest_type(value):
-        if(value in rest_types_lessthan1000):
-            return 'others'
-        else:
-            return value
-
-    df['rest_type'] = df['rest_type'].apply(handle_rest_type)
-    df['rest_type'].value_counts()'''
-
-    # Cleaning location column by making location less than 300 in frequency as others
-
-    '''location = df['location'].value_counts(ascending  = False)
-
-    location_lessthan300 = location[location<300]
-
-
-
-    def handle_location(value):
-        if(value in location_lessthan300):
-            return 'others'
-        else:
-            return value
-
-    df['location'] = df['location'].apply(handle_location)
-    df['location'].value_counts()'''
-
-    # Cleaning cuisines column by making cuisines less than 100 in frequency as others
-
-    '''cuisines = df['cuisines'].value_counts(ascending  = False)
-
-
-    cuisines_lessthan100 = cuisines[cuisines<100]
-
-
-
-    def handle_cuisines(value):
-        if(value in cuisines_lessthan100):
-            return 'others'
-        else:
-            return value
-
-    df['cuisines'] = df['cuisines'].apply(handle_cuisines)
-    df['cuisines'].value_counts()'''
-
-    df.head()
-
-    rest_types = df['rest_type'].value_counts(ascending=False)
-    rest_types
-
-    Type = df['Type'].value_counts(ascending=False)
-    Type
 
     return df
