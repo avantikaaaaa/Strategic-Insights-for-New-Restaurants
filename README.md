@@ -45,10 +45,12 @@ With only **12.8%** offering table booking, enhance this service to differentiat
 
 # Visualizations:
 
-![Image](https://github.com/user-attachments/assets/7b3b323d-0c26-42d5-9f3d-8441a6293237)
-![Image](https://github.com/user-attachments/assets/5d766dbd-4c27-4a1a-a3c2-66e47db2679e)
-![Image](https://github.com/user-attachments/assets/44a27c76-a0f5-4a17-a3ec-d67f194e42f6)
 ![Image](https://github.com/user-attachments/assets/fc74ff9c-7db3-444e-9a81-f0407b4db426)
+![Image](https://github.com/user-attachments/assets/231b0723-3d0a-439d-8c16-81a7c68b9e11)
+![Image](https://github.com/user-attachments/assets/2df40e25-2c79-4cd8-acb2-4032733f1801)
+![Image](https://github.com/user-attachments/assets/a76206d3-ea2d-4602-9cdd-7876ab122e32)
+![Image](https://github.com/user-attachments/assets/44a27c76-a0f5-4a17-a3ec-d67f194e42f6)
+
 ![Image](https://github.com/user-attachments/assets/bf3617b7-f4f5-4d69-aa8d-fdcd3226529b)
 ![Image](https://github.com/user-attachments/assets/ce3061c8-fea1-4915-9065-2f88f874675b)
 ![Image](https://github.com/user-attachments/assets/8fd8658c-ab43-4660-8a9f-91613c5b61f6)
@@ -58,6 +60,6 @@ With only **12.8%** offering table booking, enhance this service to differentiat
 ![Image](https://github.com/user-attachments/assets/4f4d1d8b-8883-4c39-a615-6a9aa47fe0a8)
 ![Image](https://github.com/user-attachments/assets/825cc4cb-86f7-42bd-b391-e7f3664d41b7)
 ![Image](https://github.com/user-attachments/assets/d0e33885-3a4e-4da2-b1b0-419cf967969a)
-![Image](https://github.com/user-attachments/assets/231b0723-3d0a-439d-8c16-81a7c68b9e11)
-![Image](https://github.com/user-attachments/assets/2df40e25-2c79-4cd8-acb2-4032733f1801)
-![Image](https://github.com/user-attachments/assets/a76206d3-ea2d-4602-9cdd-7876ab122e32)
+
+![Image](https://github.com/user-attachments/assets/7b3b323d-0c26-42d5-9f3d-8441a6293237)
+![Image](https://github.com/user-attachments/assets/5d766dbd-4c27-4a1a-a3c2-66e47db2679e)
