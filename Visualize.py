@@ -16,8 +16,6 @@ def analyse_visualize_data(df):
     plt.title("Most famous restaurants chains in Bengaluru")
     plt.xlabel("Number of outlets")
 
-![Image](https://github.com/user-attachments/assets/bef08adf-ef31-476e-9196-62ed9bb022fc)
-
     # Top 10 Restaurant types in Bengaluru
 
     plt.figure(figsize=(10, 7))
