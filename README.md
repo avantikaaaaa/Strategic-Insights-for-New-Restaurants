@@ -61,11 +61,13 @@ With only **12.8%** offering table booking, enhance this service to differentiat
 
 ![Image](https://github.com/user-attachments/assets/141358e6-d658-4219-9127-acee718d47e2)
 
+![Image](https://github.com/user-attachments/assets/710117dc-5c9a-41b6-a58e-46a4ad597fde)
+
 ![Image](https://github.com/user-attachments/assets/ce3061c8-fea1-4915-9065-2f88f874675b)
 ![Image](https://github.com/user-attachments/assets/bf3617b7-f4f5-4d69-aa8d-fdcd3226529b)
 ![Image](https://github.com/user-attachments/assets/8fd8658c-ab43-4660-8a9f-91613c5b61f6)
 ![Image](https://github.com/user-attachments/assets/1f0a5813-617d-40c3-8039-98690a81e93d)
-![Image](https://github.com/user-attachments/assets/710117dc-5c9a-41b6-a58e-46a4ad597fde)
+
 
 ![Image](https://github.com/user-attachments/assets/44a27c76-a0f5-4a17-a3ec-d67f194e42f6)
 
