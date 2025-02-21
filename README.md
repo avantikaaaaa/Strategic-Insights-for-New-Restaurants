@@ -9,18 +9,17 @@ Assist new restaurants with data-driven strategies to enhance their competitiven
 
 # Bussiness Task
 
-1. Leverage Zomato's data to conduct a comprehensive demographic analysis of various locations in Bengaluru.
-2. Identify and analyze key demographic factors that influence restaurant success, such as population density, income levels, and cultural preferences.
+1. Leverage Zomato's data to conduct a **comprehensive demographic analysis** of various locations in Bengaluru.
+2. Identify and analyze key demographic factors that **influence restaurant success**, such as population density, income levels, and cultural preferences.
 3. Assess the competitive landscape by evaluating the number and types of existing restaurants in each location.
-4. Analyze customer reviews and ratings to understand consumer preferences and satisfaction levels.
-5. Provide actionable insights and recommendations for new restaurants on optimal themes, menus, cuisines, and pricing strategies tailored to specific locations.
+4. Analyze customer reviews and ratings to **understand consumer preferences and satisfaction levels.**
+5. **Provide actionable insights and recommendations** for new restaurants on optimal themes, menus, cuisines, and pricing strategies tailored to specific locations.
 
  ### Quick links:
 
 1. Data Source: [Zomato Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
 2. [Data Cleaning & Preparation](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/clean_process.py)
 3. [Data Analysis & Visualizations](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/Visualize.py)
-4. [main.py](https://github.com/avantikaaaaa/Strategic-Insights-for-New-Restaurants/blob/main/main.py)
 
 # Recommendations/Data Insights for the upcoming restaurants:
 
